@@ -1,0 +1,9 @@
+# Виключення папки node_modules
+node_modules
+
+
+# Виключення папки .idea
+.idea
+
+# Visual code settings
+.vscode
